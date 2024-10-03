@@ -1,0 +1,148 @@
+General 0	MSE 451109
+(((-0,414089)*(x04*x06))/ln(cos(0,225568)))
+General 0	MSE 451109
+(((-0,414089)*ln(cos(0,225568)))/ln(cos(0,225568)))
+General 0	MSE 687.082
+(((-0,414089)*cos(cos(0,225568)))/ln(cos(0,225568)))
+General 0	MSE 312.516
+(((-0,414089)*cos(cos(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 195.406
+(((-0,414089)*cos(cos(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 195.406
+(((-0,414089)*cos(cos(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 195.406
+(((-0,414089)*cos(0,414089))/ln(cos(0,225568)))
+General 0	MSE 173.42
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(-0,218056))/ln(cos(0,225568)))
+General 0	MSE 156.092
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(0,225568))))/ln(cos(0,225568)))
+General 0	MSE 149.953
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
+General 0	MSE 149.869
+(((-0,414089)*cos(ln(cos(ln(cos(0,225568))))))/ln(cos(0,225568)))
